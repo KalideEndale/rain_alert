@@ -1,0 +1,1 @@
+I have created a script where it scrapes weather data from the weather app based on longitude and latitude avia a rest api call. The scraped data is then used to determine if it will rain. If it's raining, the script will automatically send the user a text message via twillio notifying them about weather conditions.
