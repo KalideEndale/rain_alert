@@ -1,8 +1,9 @@
 import requests
 from twilio.rest import Client
-
-LON = -0.118092
-LAT = 51.509865
+#use London -0.118092
+LON = int(input("What is the Longitude? ")
+#use London 51.509865
+LAT = int(input("What is the Latitude? ")
 
 # api key
 api_key = "REDACTED"
